@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- Azure Blue Background -->
+  <rect width="256" height="256" fill="#0078D4"/>
+  
+  <!-- Azure Logo - Stylized "A" -->
+  <g fill="white">
+    <!-- Left triangle -->
+    <polygon points="64,180 100,80 120,80 156,180"/>
+    <!-- Right curved element -->
+    <path d="M 140 120 Q 160 110 175 140 Q 170 155 155 160 Q 145 135 140 120"/>
+  </g>
+</svg>
